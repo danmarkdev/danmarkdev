@@ -1,8 +1,8 @@
-### Danmark Rosalejos | Software Developer
+### 👋 Hi, I'm Danmark Rosalejos 👋
 
 Computer Programming student at the Technological University of the Philippines in Manila, with 1 year of experience building full-stack web applications from responsive frontends to backends and webhook integrations and live deployment.
 
-### 🛠️ Technical Stacks
+### TECHNICAL STACKS
 
 **Front-End**
 
@@ -30,7 +30,7 @@ Computer Programming student at the Technological University of the Philippines 
 **OS & IDE**
 
 <img src="https://skillicons.dev/icons?i=vscode,windows,linux" /> &nbsp;
-### 🚀 Selected Projects
+### PROJECTS
 
 - **[HealthSync Clinic Management System](https://healthsync.hstn.me)** - For STI College Bacoor. A web-based system simplifying the school nurse's workflow, digital records, real-time communication tools, and streamlined healthcare processes.
 
@@ -42,7 +42,7 @@ Computer Programming student at the Technological University of the Philippines 
 
 ---
 
-### 📜 Certifications
+### CERTIFICATIONS
 
 <table>
 <tr>
@@ -104,5 +104,4 @@ Computer Programming student at the Technological University of the Philippines 
 </table>
 
 ---
-
-📄 [Download CV](https://danmarkdev.github.io/Portfolio/Rosalejos%20Danmark%20CV.pdf) · 🌐 [Portfolio](https://danmarkdev.github.io/Portfolio/)
+ [Download CV](https://danmarkdev.github.io/Portfolio/Rosalejos%20Danmark%20CV.pdf) ·  [Portfolio](https://danmarkdev.github.io/Portfolio/)
