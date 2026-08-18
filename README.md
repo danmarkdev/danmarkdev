@@ -14,15 +14,22 @@ Computer Programming student at the Technological University of the Philippines 
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql" /> &nbsp; **SQL** · **MySQL**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Others**
 
-<img src="https://skillicons.dev/icons?i=github,vercel,netlify" /> &nbsp; **XAMPP** · **Render** · **InfinityFree** · **AeonFree**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![InfinityFree](https://img.shields.io/badge/InfinityFree-1769AA?style=for-the-badge)
+![AeonFree](https://img.shields.io/badge/AeonFree-2E3440?style=for-the-badge)
 
 **OS & IDE**
 
-<img src="https://skillicons.dev/icons?i=vscode,windows,linux" /> &nbsp; **Windows 10** · **Linux MX**
+<img src="https://skillicons.dev/icons?i=vscode,windows,linux" /> &nbsp;
 ### 🚀 Selected Projects
 
 - **[HealthSync Clinic Management System](https://healthsync.hstn.me)** - For STI College Bacoor. A web-based system simplifying the school nurse's workflow, digital records, real-time communication tools, and streamlined healthcare processes.
