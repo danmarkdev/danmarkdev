@@ -44,64 +44,68 @@ Computer Programming student at the Technological University of the Philippines 
 
 ### CERTIFICATIONS
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/java%20hackerank.png" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/java%20hackerank.png" width="180"/><br/><br/>
 <b>JAVA Certificate</b><br/>HackerRank
 </td>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/Javascript%20basic%20hackerrank.png" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/Javascript%20basic%20hackerrank.png" width="180"/><br/><br/>
 <b>JS Basic</b><br/>HackerRank
 </td>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/Javascript%20intermediate%20hackerrank.png" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/Javascript%20intermediate%20hackerrank.png" width="180"/><br/><br/>
 <b>JS Intermediate</b><br/>HackerRank
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/css%20basic%20hackerrank.png" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/css%20basic%20hackerrank.png" width="180"/><br/><br/>
 <b>CSS Basic</b><br/>HackerRank
 </td>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/web%20development%20simplilearn.jpg" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/web%20development%20simplilearn.jpg" width="180"/><br/><br/>
 <b>Web Development</b><br/>Simplilearn
 </td>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/JavaScript%20simplilearn.jpg" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/JavaScript%20simplilearn.jpg" width="180"/><br/><br/>
 <b>JS Certificate</b><br/>Simplilearn
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/CSS%20fundamentals%20simplilearn.jpg" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/CSS%20fundamentals%20simplilearn.jpg" width="180"/><br/><br/>
 <b>CSS Fundamentals</b><br/>Simplilearn
 </td>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/html%20fundamentals%20simplilearn.jpg" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/html%20fundamentals%20simplilearn.jpg" width="180"/><br/><br/>
 <b>HTML Fundamentals</b><br/>Simplilearn
 </td>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/Legacy%20responsive%20web%20design%20freecodecamp.png" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/Legacy%20responsive%20web%20design%20freecodecamp.png" width="180"/><br/><br/>
 <b>Legacy Responsive Web Design</b><br/>FreeCodeCamp
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/Legacy%20JavaScript%20freecodecamp.png" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/Legacy%20JavaScript%20freecodecamp.png" width="180"/><br/><br/>
 <b>JS Algorithms & Data Structures</b><br/>FreeCodeCamp
 </td>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/responsive%20web%20design%20freecodecamp.png" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/responsive%20web%20design%20freecodecamp.png" width="180"/><br/><br/>
 <b>Responsive Web Design</b><br/>FreeCodeCamp
 </td>
-<td align="center" width="200">
-<img src="https://danmarkdev.github.io/Portfolio/Certificates/Build%20Website%20Cognitive%20AI%20Class.png" width="180"/><br/>
+<td align="center" width="200" style="padding: 15px;">
+<img src="https://danmarkdev.github.io/Portfolio/Certificates/Build%20Website%20Cognitive%20AI%20Class.png" width="180"/><br/><br/>
 <b>Build Website</b><br/>Cognitive Class
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
  [Download CV](https://danmarkdev.github.io/Portfolio/Rosalejos%20Danmark%20CV.pdf) ·  [Portfolio](https://danmarkdev.github.io/Portfolio/)
