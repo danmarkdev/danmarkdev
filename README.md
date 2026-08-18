@@ -2,6 +2,8 @@
 
 Computer Programming student at Technological University of the Philippines in Manila with 1 year of experience in building full-stack web applications from responsive frontends to backends and webhook integrations to live deployment.
 
+---
+
 ### TECHNICAL STACKS
 
 **FRONT-END**
@@ -30,6 +32,9 @@ Computer Programming student at Technological University of the Philippines in M
 **OS & IDE**
 
 <img src="https://skillicons.dev/icons?i=vscode,windows,linux" /> &nbsp;
+
+---
+
 ### PROJECTS
 
 - **[HealthSync Clinic Management System](https://healthsync.hstn.me)** - For STI College Bacoor. A web-based system simplifying the school nurse's workflow, digital records, real-time communication tools, and streamlined healthcare processes.
