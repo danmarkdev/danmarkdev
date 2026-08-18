@@ -42,7 +42,7 @@ Computer Programming student at the Technological University of the Philippines 
 
 ---
 
-### CERTIFICATIONS
+### CERTIFICATIONS & ACHIEVEMENTS
 
 <div align="center">
 
