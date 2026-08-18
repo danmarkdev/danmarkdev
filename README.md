@@ -2,16 +2,7 @@
 
 Computer Programming student at the Technological University of the Philippines in Manila, with 1 year of experience building full-stack web applications from responsive frontends to backends and webhook integrations and live deployment.
 
-- 🔭 I'm currently working on **full-stack web apps** (frontend to backend, webhooks to deployment)
-- 🌱 I'm currently learning **Java, C#, and Tailwind CSS**
-- 👯 I'm looking to collaborate on **web app projects and real-world systems**
-- 💬 Ask me about **PHP, Laravel, Node.js, MySQL, or web deployment**
-- 📫 How to reach me: [Portfolio](https://danmarkdev.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/danmark-rosalejos-2b89503b1/)
-- ⚡ Fun fact: I build everything from clinic management systems to pixel platformer games 🎮
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Technical Stacks
 
 **Front-End**
 
