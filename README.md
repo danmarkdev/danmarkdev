@@ -30,21 +30,24 @@ Computer Programming student at the Technological University of the Philippines 
 ### 🛠️ Tech Stack
 
 **Front-End**
-![HTML5](https://cdn.simpleicons.org/html5/ffffff) ![CSS](https://cdn.simpleicons.org/css/ffffff) ![JavaScript](https://cdn.simpleicons.org/javascript/000000) ![Bootstrap](https://cdn.simpleicons.org/bootstrap/ffffff) ![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/ffffff)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 
 **Back-End**
-![PHP](https://cdn.simpleicons.org/php/ffffff) ![Laravel](https://cdn.simpleicons.org/laravel/ffffff) ![Node.js](https://cdn.simpleicons.org/nodedotjs/ffffff) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,cs" />
 
 **Databases**
-![MySQL](https://cdn.simpleicons.org/mysql/ffffff) SQL
+
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 **Tools & Platforms**
-![GitHub](https://cdn.simpleicons.org/github/ffffff) ![Vercel](https://cdn.simpleicons.org/vercel/ffffff) ![Netlify](https://cdn.simpleicons.org/netlify/ffffff) ![Render](https://cdn.simpleicons.org/render/ffffff) ![XAMPP](https://cdn.simpleicons.org/xampp/ffffff)
+
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify,xampp" />
 
 **IDE & OS**
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) Windows 10 · Linux MX
 
----
+<img src="https://skillicons.dev/icons?i=vscode,windows,linux" />
 
 ### 🚀 Selected Projects
 
