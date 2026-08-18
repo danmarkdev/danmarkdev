@@ -16,14 +16,13 @@ Computer Programming student at the Technological University of the Philippines 
 
 <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp; **SQL** · **MySQL**
 
-**Tools & Platforms**
+**Tools & Others**
 
-<img src="https://skillicons.dev/icons?i=github,vercel,netlify" /> <img src="https://cdn.simpleicons.org/xampp/ffffff" width="48" height="48" style="vertical-align:middle" /> &nbsp; **Render** · **InfinityFree** · **AeonFree**
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify" /> &nbsp; **XAMPP** · **Render** · **InfinityFree** · **AeonFree**
 
 **OS & IDE**
 
 <img src="https://skillicons.dev/icons?i=vscode,windows,linux" /> &nbsp; **Windows 10** · **Linux MX**
-
 ### 🚀 Selected Projects
 
 - **[HealthSync Clinic Management System](https://healthsync.hstn.me)** - For STI College Bacoor. A web-based system simplifying the school nurse's workflow, digital records, real-time communication tools, and streamlined healthcare processes.
