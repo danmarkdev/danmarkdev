@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Danmark Rosalejos 👋
 
-Computer Programming student at the Technological University of the Philippines in Manila, with 1 year of experience building full-stack web applications from responsive frontends to backends and webhook integrations and live deployment.
+Computer Programming student at the Technological University of the Philippines in Manila with 1 year of experience building full-stack web applications from responsive frontends to backends and webhook integrations and live deployment.
 
 ### TECHNICAL STACKS
 
