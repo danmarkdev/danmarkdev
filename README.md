@@ -4,20 +4,20 @@ Computer Programming student at the Technological University of the Philippines 
 
 ### TECHNICAL STACKS
 
-**Front-End**
+**FRONT-END**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 
-**Back-End**
+**BACK-END**
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,cs" />
 
-**Databases**
+**DATABASES**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Others**
+**TOOLS & OTHERS**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
