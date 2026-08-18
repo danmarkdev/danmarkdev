@@ -14,23 +14,15 @@ Computer Programming student at the Technological University of the Philippines 
 
 **Databases**
 
-SQL &nbsp; <img src="https://skillicons.dev/icons?i=mysql" />
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white) <img src="https://skillicons.dev/icons?i=mysql" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=github,vercel,netlify" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/ffffff" width="48" height="48" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/infinityfree/ffffff" width="48" height="48" />
-&nbsp;&nbsp;
-AeonFree
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=xampp" />
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify,xampp" /> <img src="https://cdn.simpleicons.org/render/ffffff" width="48" height="48" style="vertical-align:middle" /> <img src="https://cdn.simpleicons.org/infinityfree/ffffff" width="48" height="48" style="vertical-align:middle" /> ![AeonFree](https://img.shields.io/badge/AeonFree-000000?style=for-the-badge)
 
 **OS & IDE**
 
-<img src="https://skillicons.dev/icons?i=vscode,windows,linux" /> &nbsp; Windows 10 · Linux MX
+<img src="https://skillicons.dev/icons?i=vscode,windows,linux" /> ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux MX](https://img.shields.io/badge/Linux_MX-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 🚀 Selected Projects
 
