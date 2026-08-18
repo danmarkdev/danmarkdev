@@ -27,14 +27,20 @@ Computer Programming student at the Technological University of the Philippines 
 ### 🚀 Selected Projects
 
 - **[HealthSync Clinic Management System](https://healthsync.hstn.me)** - For STI College Bacoor. A web-based system simplifying the school nurse's workflow, digital records, real-time communication tools, and streamlined healthcare processes.
+  
 - **[Rico The Brickland Hills](https://danmarkdev.github.io/RicoTheBricklandHills/)** - A pixel game featuring Rico's journey across the brickland hills, grabbing coins, stomping snurples, and racing the timer to each world's flagpole.
+  
 - **[A Cup of Cafe](https://danmarkdev.github.io/ACupOfCafe/)** - A digital storefront for a Manila coffee brand with scroll animations, custom cursor interactions, and a responsive build.
+  
 - **[Digital Father's Day Letter](https://lbff.hstn.me/)** - For Lorimi Bacoor Faith Family (LBFF). An interactive tap-to-open envelope revealing a scripture-rooted tribute with personalized letters and scroll-triggered reveals.
 
 ---
 
-### 📜 Certifications
-HackerRank (Java, JS Basic/Intermediate, CSS Basic) · Simplilearn (Web Dev, JS, CSS, HTML) · FreeCodeCamp (Responsive Web Design, JS Algorithms & Data Structures) · Cognitive Class (Build Website)
+### Certifications
+·HackerRank (Java, JS Basic/Intermediate, CSS Basic) 
+· Simplilearn (Web Dev, JS, CSS, HTML) 
+· FreeCodeCamp (Responsive Web Design, JS Algorithms & Data Structures) 
+· Cognitive Class (Build Website)
 
 ---
 
