@@ -98,6 +98,3 @@ Computer Programming student at Technological University of the Philippines in M
 </table>
 
 </div>
-
----
- [Download CV](https://danmarkdev.github.io/Portfolio/Rosalejos%20Danmark%20CV.pdf) ·  [Portfolio](https://danmarkdev.github.io/Portfolio/)
