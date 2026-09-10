@@ -12,7 +12,9 @@ Software Developer and Computer Programming student at Technological University 
 
 **BACK-END**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,cs" />
+
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **DATABASES**
 
@@ -28,7 +30,7 @@ Software Developer and Computer Programming student at Technological University 
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,linux" />
 
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" title="NetBeans" />
 
 ---
 
