@@ -12,9 +12,7 @@ Software Developer and Computer Programming student at Technological University 
 
 **BACK-END**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,cs" />
-
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,cs" /><img src="https://cdn.simpleicons.org/dotnet" width="48" height="48" alt=".NET MAUI" title=".NET MAUI" style="padding:2px"/><img src="https://cdn.simpleicons.org/dotnet" width="48" height="48" alt="ASP.NET" title="ASP.NET" style="padding:2px"/>
 
 **DATABASES**
 
@@ -28,9 +26,7 @@ Software Developer and Computer Programming student at Technological University 
 
 **OS & IDE**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,linux" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" title="NetBeans" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,linux" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" title="NetBeans" style="padding:2px"/>
 
 ---
 
