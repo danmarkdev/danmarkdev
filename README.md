@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Danmark Rosalejos 👋 (Software Developer)
+### 👋 Hi, I'm Danmark Rosalejos 👋
 
-Computer Programming student at Technological University of the Philippines in Manila with 2 years of experience in building full-stack web application development, webhooks to deployment, and AI-powered systems.
+Software Developer and Computer Programming student at Technological University of the Philippines in Manila with 2 years of experience in building full-stack web application development, webhooks to deployment, and AI-powered systems.
 
 ---
 
@@ -20,9 +20,7 @@ Computer Programming student at Technological University of the Philippines in M
 
 **TOOLS & DEPLOYMENT**
 
-<img src="https://skillicons.dev/icons?i=github,vercel,netlify" />
-
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) ![InfinityFree](https://img.shields.io/badge/InfinityFree-1769AA?style=for-the-badge) ![AeonFree](https://img.shields.io/badge/AeonFree-2E3440?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify,render" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/xampp.svg" width="48" height="48" alt="XAMPP" title="XAMPP" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/infinityfree.svg" width="48" height="48" alt="InfinityFree" title="InfinityFree" />&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=aeonfree.com&sz=128" width="48" height="48" alt="AeonFree" title="AeonFree" />
 
 **OS & IDE**
 
