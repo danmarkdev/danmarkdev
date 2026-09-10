@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Danmark Rosalejos 👋
 
-Computer Programming student at Technological University of the Philippines in Manila with 2 years of experience in building full-stack web application development, webhooks and AI-Powered Systems
+Computer Programming student at Technological University of the Philippines in Manila with 2 years of experience in building full-stack web application development, webhooks to deployment, and AI-powered systems.
 
 ---
 
@@ -16,25 +16,26 @@ Computer Programming student at Technological University of the Philippines in M
 
 **DATABASES**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**TOOLS & OTHERS**
+**TOOLS & DEPLOYMENT**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-1769AA?style=for-the-badge)
 ![AeonFree](https://img.shields.io/badge/AeonFree-2E3440?style=for-the-badge)
 
 **OS & IDE**
 
-<img src="https://skillicons.dev/icons?i=vscode,windows,linux" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,netbeans,windows,linux" />
 
+---
 
-### CERTIFICATIONS & ACHIEVEMENTS
+### 🏆 CERTIFICATIONS & ACHIEVEMENTS
 
 <div align="center">
 
