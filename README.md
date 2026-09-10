@@ -20,7 +20,7 @@ Software Developer and Computer Programming student at Technological University 
 
 **TOOLS & DEPLOYMENT**
 
-<img src="https://skillicons.dev/icons?i=github,vercel,netlify" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/render.svg" width="48" height="48" alt="Render" title="Render" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xampp.svg" width="48" height="48" alt="XAMPP" title="XAMPP" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/infinityfree.svg" width="48" height="48" alt="InfinityFree" title="InfinityFree" />&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=aeonfree.com&sz=128" width="48" height="48" alt="AeonFree" title="AeonFree" />
+<img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vercel/ffffff" width="48" height="48" alt="Vercel" title="Vercel" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48" alt="Netlify" title="Netlify" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/render/ffffff" width="48" height="48" alt="Render" title="Render" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" alt="XAMPP" title="XAMPP" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/infinityfree/7738C8" width="48" height="48" alt="InfinityFree" title="InfinityFree" />&nbsp;&nbsp;<img src="https://unavatar.io/aeonfree.com" width="48" height="48" alt="AeonFree" title="AeonFree" />
 
 **OS & IDE**
 
