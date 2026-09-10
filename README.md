@@ -28,7 +28,7 @@ Computer Programming student at Technological University of the Philippines in M
 
 ---
 
-### 🏆 CERTIFICATIONS & ACHIEVEMENTS
+### 🏆 CERTIFICATIONS & ACHIEVEMENTS 🏆
 
 <div align="center">
 
