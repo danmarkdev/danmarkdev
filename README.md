@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Danmark Rosalejos 👋
 
-Computer Programming student at Technological University of the Philippines in Manila with 2 years of experience in building full-stack web application development, webhooks to deployment, and AI-powered systems.
+Software Developer and Computer Programming student at Technological University of the Philippines in Manila with 2 years of experience in building full-stack web application development, webhooks to deployment, and AI-powered systems.
 
 ---
 
@@ -12,18 +12,15 @@ Computer Programming student at Technological University of the Philippines in M
 
 **BACK-END**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,cs" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,cs,dotnet" />
 
 **DATABASES**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 **TOOLS & DEPLOYMENT**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify" />
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-1769AA?style=for-the-badge)
@@ -31,7 +28,8 @@ Computer Programming student at Technological University of the Philippines in M
 
 **OS & IDE**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,netbeans,windows,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,linux" />
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 
