@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Danmark Rosalejos 👋 A (Software Developer)
+### 👋 Hi, I'm Danmark Rosalejos 👋 (Software Developer)
 
 Computer Programming student at Technological University of the Philippines in Manila with 2 years of experience in building full-stack web application development, webhooks to deployment, and AI-powered systems.
 
