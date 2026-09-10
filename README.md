@@ -21,14 +21,13 @@ Software Developer and Computer Programming student at Technological University 
 **TOOLS & DEPLOYMENT**
 
 <img src="https://skillicons.dev/icons?i=github,vercel,netlify" />
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![InfinityFree](https://img.shields.io/badge/InfinityFree-1769AA?style=for-the-badge)
-![AeonFree](https://img.shields.io/badge/AeonFree-2E3440?style=for-the-badge)
+
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) ![InfinityFree](https://img.shields.io/badge/InfinityFree-1769AA?style=for-the-badge) ![AeonFree](https://img.shields.io/badge/AeonFree-2E3440?style=for-the-badge)
 
 **OS & IDE**
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,linux" />
+
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
